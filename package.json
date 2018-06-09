@@ -19,8 +19,8 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node server.js",
-    "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+    
     
   },
   "repository": {
