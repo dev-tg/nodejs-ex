@@ -31,6 +31,7 @@ if (mongoURL == null && process.env.DATABASE_SERVICE_NAME) {
     mongoURL += mongoHost + ':' +  mongoPort + '/' + mongoDatabase;
 
   }
+    console.log(mongoURL);
 }
 var db = null,
     dbDetails = new Object();
