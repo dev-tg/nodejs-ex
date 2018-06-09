@@ -4,10 +4,6 @@
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
   "dependencies": {
-    "chai": "^3.5.0",
-    "chai-http": "^2.0.1",
-    "mocha": "^2.4.5",
-    "mongodb": "^2.1.16",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "mongoose": "^5.1.3",
